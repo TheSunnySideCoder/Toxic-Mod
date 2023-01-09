@@ -3,4 +3,4 @@ Toxic mod is a mod that adds a new weapon called "Toxic Blade" that does the sam
 to get the sword you will need to summon the Gold Loving Villager, to summon him you will need 4 gold ingots to make condence gold, from there you just need to trade.
 
 # How To Download
-Download and run onto you Minecraft, you will also need to activate Education Edition and Holiday creator (note: this mod is made for minecraft 1.18.42)
+Download and run onto Minecraft, you will also need to activate Education Edition and Holiday creator (note: this mod is made for Minecraft Bedrock 1.18.42)
